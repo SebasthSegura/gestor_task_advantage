@@ -76,8 +76,6 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno local:
     (Reemplaza `[paquete principal].[clase principal]` con la ruta completa a tu clase `main`).
 
 ## Estructura del Proyecto (Ejemplo)
-
-## Estructura del Proyecto (Ejemplo)
 ├── src/
 │   ├── main/
 │   │   ├── java/
