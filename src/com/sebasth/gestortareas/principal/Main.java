@@ -1,4 +1,4 @@
-package com.sebasth.gestortareas.Principal;
+package com.sebasth.gestortareas.principal;
 
 public class Main {
     public static void main(String[] args) {
