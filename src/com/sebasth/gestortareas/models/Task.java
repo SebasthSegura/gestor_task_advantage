@@ -5,7 +5,10 @@ import com.sebasth.gestortareas.principal.Main;
 public class Task extends Main {
     private String name;
     private int time;
+    private  String description;
 
+    /*insertamos getter and setters para
+    poder obtener la informacion de las variables privadas*/
     public String getName() {
         return name;
     }
@@ -20,5 +23,13 @@ public class Task extends Main {
 
     public void setTime(int time) {
         this.time = time;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
     }
 }
