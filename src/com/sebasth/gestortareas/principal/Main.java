@@ -24,8 +24,8 @@ public class Main {
         /*
         creamos controladores un label y boton
         */
-        JLabel saludoLabel = new JLabel("¡Bienvenido al Gestor de Tareas!");
-        JButton iniciarButton = new JButton("Iniciar Aplicación");
+        JLabel saludoLabel = new JLabel("¡Bienvenido!");
+        JButton iniciarButton = new JButton("Comenzar");
 
         /*
         agregamos los controladores a al contenedor usando "panel.add(saludoLabel)"
